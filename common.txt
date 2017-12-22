@@ -1,4 +1,4 @@
-func c(){
-}
 func a(){
+}
+func c(){
 }
